@@ -1,0 +1,22 @@
+clear
+echo "hallo nonik!"
+echo
+echo "hpmu ku heck yahahha"
+sleep 3.0
+pkg install figlet
+clear
+figlet "NoNiK!"
+echo "pas lagi diinstall jangan tutup aplikasi atau buka wa ya bagas"
+sleep 2.0
+sleep 2.0
+clear
+sleep 1.0
+apt update && apt upgrade
+pkg install bash curl jq wget
+pkg install python
+git pull
+python -m pip install -r requirements.txt
+clear
+echo "ketik python Run.py"
+echo "huruf Rnya gede ya"
+echo "mau turu dulu bye"
